@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1b8828b-87d8-4949-8fb0-e2f882ed1b0f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z5L9BNdx3ApduTN59AUBhzdJ8C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jade.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.40804598" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="agents" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AcheteurGUI">
+    <configuration name="AcheteurGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="agents.AcheteurGUI" />
+      <module name="TP1-SMA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="agents.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerContainer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="containers.ConsumerContainer" />
+      <module name="TP1-SMA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="containers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainContainer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="containers.MainContainer" />
+      <module name="TP1-SMA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="containers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleContainer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="containers.SimpleContainer" />
+      <module name="TP1-SMA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="containers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VendeurGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="agents.VendeurGUI" />
+      <module name="TP1-SMA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="agents.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AcheteurGUI" />
+        <item itemvalue="Application.VendeurGUI" />
+        <item itemvalue="Application.ConsumerContainer" />
+        <item itemvalue="Application.MainContainer" />
+        <item itemvalue="Application.SimpleContainer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1b8828b-87d8-4949-8fb0-e2f882ed1b0f" name="Default Changelist" comment="" />
+      <created>1584123854225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584123854225</updated>
+      <workItem from="1584123862197" duration="8178000" />
+      <workItem from="1584180637301" duration="475000" />
+      <workItem from="1584186756848" duration="18324000" />
+      <workItem from="1584279223767" duration="9476000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="94" key="#com.intellij.ide.util.MemberChooser" timestamp="1584204574338">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="94" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1584204574338" />
+    <state x="463" y="140" key="FileChooserDialogImpl" timestamp="1584124261975">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="140" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1584124261975" />
+    <state width="1323" height="74" key="GridCell.Tab.0.bottom" timestamp="1584292904020">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="74" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1584292904020" />
+    <state width="1323" height="74" key="GridCell.Tab.0.center" timestamp="1584292904020">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="74" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1584292904020" />
+    <state width="1323" height="74" key="GridCell.Tab.0.left" timestamp="1584292904020">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="74" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1584292904020" />
+    <state width="1323" height="74" key="GridCell.Tab.0.right" timestamp="1584292904020">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="74" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1584292904020" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1584195580801">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1584195580801" />
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1584279261871">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1584279261871" />
+    <state x="339" y="176" key="run.anything.popup" timestamp="1584224660514">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="176" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1584224660514" />
+  </component>
+</project>
